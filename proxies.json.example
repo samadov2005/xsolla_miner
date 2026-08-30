@@ -1,0 +1,10 @@
+{
+  "998901234567": {
+    "http": "http://username:password@ip:port",
+    "https": "http://username:password@ip:port"
+  },
+  "998931234567": {
+    "http": "socks5://ip:port",
+    "https": "socks5://ip:port"
+  }
+}

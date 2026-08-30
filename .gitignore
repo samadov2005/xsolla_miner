@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Environment and secrets
+.env
+sessions/
+*.session
+*.session-journal
+
+# Temporary images and debug logs
+*.png
+*.jpg
+*.jpeg
+*.log
+
+# Temp scripts
+test_*.py
+inspect_*.py
+find_*.py
+scan_*.py
+check_history.py
+analyze_js.py

@@ -1,0 +1,3 @@
+# Xsolla Rewards WebApp havolalarini shu yerga har bir qatorga bittadan joylang:
+# Masalan:
+# https://webapp.xsollapi.com/#tgWebAppData=user%3D%257B%2522id%2522...
